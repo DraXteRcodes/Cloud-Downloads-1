@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1831",
+  "folder": "YouTube__watch_20260514143253_2c24a1",
+  "base_name": "How_to_MASTER_CS2_like_donk_-_The_Setup_Wv8uwgndxn8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/DraXteRcodes/Cloud-Downloads-1/releases/tag/co-releases-v1-1831",
+  "files": [
+    {
+      "name": "How_to_MASTER_CS2_like_donk_-_The_Setup_Wv8uwgndxn8_720p.mp4",
+      "url": "https://github.com/DraXteRcodes/Cloud-Downloads-1/releases/download/co-releases-v1-1831/How_to_MASTER_CS2_like_donk_-_The_Setup_Wv8uwgndxn8_720p.mp4",
+      "api_url": "https://api.github.com/repos/DraXteRcodes/Cloud-Downloads-1/releases/assets/420223729",
+      "id": 420223729,
+      "size": 78170544,
+      "download_count": 0
+    }
+  ]
+}
